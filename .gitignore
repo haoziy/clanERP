@@ -1,0 +1,6 @@
+# dirctory
+node_modules/
+.idea/
+.vscode/
+# files
+npm-debug.log
